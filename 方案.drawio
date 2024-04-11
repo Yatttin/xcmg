@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T10:08:44.545Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="tu734_-puqWDDhnBHVXo" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-11T03:39:02.241Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="OugXk7m9SRx4c7PeCd80" version="24.0.7" type="github">
   <diagram name="第 1 页" id="63LpKXCC7zc71nPkudX0">
-    <mxGraphModel dx="732" dy="2798" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="988" dy="3039" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TJtG-cMR1-Y-jR3jqAgU-33" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;放料+回转过程&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="TJtG-cMR1-Y-jR3jqAgU-33" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;放料+回转过程&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="88" y="243" width="118" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TJtG-cMR1-Y-jR3jqAgU-31" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;挖掘+回转过程&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="TJtG-cMR1-Y-jR3jqAgU-31" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;挖掘+回转过程&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="277" y="109" width="118" height="20" as="geometry" />
         </mxCell>
         <mxCell id="p1jZvP-86i7ro4VcIgck-20" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -340,16 +340,16 @@
             <mxPoint x="154.76" y="-2157" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p1jZvP-86i7ro4VcIgck-12" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;施工环境&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="p1jZvP-86i7ro4VcIgck-12" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;施工环境&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="74" y="-2157" width="20" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="p1jZvP-86i7ro4VcIgck-13" value="协作对象" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="p1jZvP-86i7ro4VcIgck-13" value="协作对象" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="122" y="-2156.5" width="20" height="76.5" as="geometry" />
         </mxCell>
-        <mxCell id="p1jZvP-86i7ro4VcIgck-14" value="作业对象" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="p1jZvP-86i7ro4VcIgck-14" value="作业对象" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="98" y="-2156.5" width="20" height="76.5" as="geometry" />
         </mxCell>
-        <mxCell id="p1jZvP-86i7ro4VcIgck-15" value="障碍物&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="p1jZvP-86i7ro4VcIgck-15" value="障碍物&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="146" y="-2156.5" width="20" height="76.5" as="geometry" />
         </mxCell>
         <mxCell id="p1jZvP-86i7ro4VcIgck-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.491;exitY=0.977;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
@@ -514,25 +514,25 @@
             <mxPoint x="300" y="-1990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TJtG-cMR1-Y-jR3jqAgU-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="TJtG-cMR1-Y-jR3jqAgU-3">
+        <mxCell id="TJtG-cMR1-Y-jR3jqAgU-2" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="TJtG-cMR1-Y-jR3jqAgU-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="146" y="110" as="sourcePoint" />
             <mxPoint x="386" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TJtG-cMR1-Y-jR3jqAgU-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="TJtG-cMR1-Y-jR3jqAgU-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="107" y="90" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TJtG-cMR1-Y-jR3jqAgU-4" value="待挖点" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="TJtG-cMR1-Y-jR3jqAgU-4" value="待挖点" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="77" y="43" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TJtG-cMR1-Y-jR3jqAgU-5" value="放料点" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="TJtG-cMR1-Y-jR3jqAgU-5" value="放料点" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="364" y="313" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TJtG-cMR1-Y-jR3jqAgU-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="TJtG-cMR1-Y-jR3jqAgU-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="388" y="263" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TJtG-cMR1-Y-jR3jqAgU-27" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.485;exitY=-0.025;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TJtG-cMR1-Y-jR3jqAgU-3">
+        <mxCell id="TJtG-cMR1-Y-jR3jqAgU-27" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.485;exitY=-0.025;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="TJtG-cMR1-Y-jR3jqAgU-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="163" y="93" as="sourcePoint" />
             <mxPoint x="406.5" y="263" as="targetPoint" />
@@ -541,7 +541,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TJtG-cMR1-Y-jR3jqAgU-30" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.82;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.105;entryY=0.635;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="TJtG-cMR1-Y-jR3jqAgU-30" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.82;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.105;entryY=0.635;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="387.1999999999998" y="290.8000000000002" as="sourcePoint" />
             <mxPoint x="121.59999999999991" y="129.19999999999982" as="targetPoint" />
