@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T09:12:50.188Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="SeAXUffmRlcg0fR3bBKh" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-19T13:00:59.129Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="SosRZx6bQI2WU34Phj2O" version="24.5.4" type="github">
   <diagram name="第 1 页" id="63LpKXCC7zc71nPkudX0">
-    <mxGraphModel dx="2501" dy="3990" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2324" dy="3824" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -958,13 +958,13 @@
           <mxGeometry x="-1520" y="-2270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CVRw4VNWvZ6DvEKLt6Eu-7" value="&lt;div&gt;Trajectory shape&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;gradientColor=none;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-1520" y="-2210" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1520" y="-2219" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CVRw4VNWvZ6DvEKLt6Eu-9" value="&lt;div&gt;Human evaluation&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;gradientColor=none;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-1520" y="-2099" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1520" y="-2112" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CVRw4VNWvZ6DvEKLt6Eu-10" value="挖机执行" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;gradientColor=none;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-1520" y="-2156.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1520" y="-2165.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CVRw4VNWvZ6DvEKLt6Eu-12" value="New data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="-1394" y="-2240" width="60" height="30" as="geometry" />
@@ -992,6 +992,42 @@
         </mxCell>
         <mxCell id="CVRw4VNWvZ6DvEKLt6Eu-21" value="Keep training" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1463" y="-2241" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CVRw4VNWvZ6DvEKLt6Eu-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1490.14" y="-2240" as="sourcePoint" />
+            <mxPoint x="-1490.1200000000001" y="-2219.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CVRw4VNWvZ6DvEKLt6Eu-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1490.15" y="-2135.5" as="sourcePoint" />
+            <mxPoint x="-1489.8400000000001" y="-2113" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CVRw4VNWvZ6DvEKLt6Eu-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1490.15" y="-2188.5" as="sourcePoint" />
+            <mxPoint x="-1489.8400000000001" y="-2166" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CVRw4VNWvZ6DvEKLt6Eu-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.03;exitY=0.59;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.443;entryY=1.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CVRw4VNWvZ6DvEKLt6Eu-9" target="CVRw4VNWvZ6DvEKLt6Eu-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1290" y="-2110" as="sourcePoint" />
+            <mxPoint x="-1240" y="-2160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1360" y="-2094" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CVRw4VNWvZ6DvEKLt6Eu-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.015;exitY=0.524;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.557;entryY=1.178;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CVRw4VNWvZ6DvEKLt6Eu-10" target="CVRw4VNWvZ6DvEKLt6Eu-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1260" y="-2100" as="sourcePoint" />
+            <mxPoint x="-1210" y="-2150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1581" y="-2150" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
