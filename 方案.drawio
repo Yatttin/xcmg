@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-30T02:33:28.323Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="OxwNSoWR70ecrrOj21p-" version="24.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-30T01:40:20.081Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="wxoJ7koHrs9Hy1-twKd-" version="24.6.4" type="github">
   <diagram name="第 1 页" id="63LpKXCC7zc71nPkudX0">
-    <mxGraphModel dx="2626" dy="4001" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2849" dy="4257" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1048,6 +1048,29 @@
         </mxCell>
         <mxCell id="yQ6IcNjphFH6Ir52Q7dY-4" value="&lt;b&gt;铲斗轨迹处理：&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1077.5" y="-2373" width="95" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;&lt;img src=&quot;http://www.kdocs.cn/api/v3/office/copy/RkhDdGNoYlBvSFRTZ3ZpZW1zd1BnU1FnYS9kZXFwajNCZ0ZJKzlEUy9MeGFMdnJ4aHdFSFZYTXVpSEgzWXRGTTZsQ09ZUEVDT2hjbTUvTTFaNUdha2ZrK0E4Zkk1SlpCNVllTnFZK1lKRTZqaTJRZmk1LzZEMEw0ZE9SUFJCellDRGlRbFlhZUM4UFlmcjRyOU5aRWNGM2Vqc3hxMVp4M3gxUFdxanFWRndPQnYranY2dGZaU2ROVW5zQkd0QUdaMjlSbGxhSmd6UnRBOVNsR2FMRzNlZ0g1SWJ4c3AzdHZhTVU1YVFkWUNRWis3dDFpdk1uZ1NoKzhJZ1dzL3YwMitVczZrSG1pY0xzPQ==/attach/object/1cd8cbbef551f75111e9f9d0df42b8613ef70c53?&quot; width=&quot;546&quot; height=&quot;413.00000000000006&quot;&gt;&lt;/div&gt;" link="&lt;div&gt;&lt;img src=&quot;http://www.kdocs.cn/api/v3/office/copy/RkhDdGNoYlBvSFRTZ3ZpZW1zd1BnU1FnYS9kZXFwajNCZ0ZJKzlEUy9MeGFMdnJ4aHdFSFZYTXVpSEgzWXRGTTZsQ09ZUEVDT2hjbTUvTTFaNUdha2ZrK0E4Zkk1SlpCNVllTnFZK1lKRTZqaTJRZmk1LzZEMEw0ZE9SUFJCellDRGlRbFlhZUM4UFlmcjRyOU5aRWNGM2Vqc3hxMVp4M3gxUFdxanFWRndPQnYranY2dGZaU2ROVW5zQkd0QUdaMjlSbGxhSmd6UnRBOVNsR2FMRzNlZ0g1SWJ4c3AzdHZhTVU1YVFkWUNRWis3dDFpdk1uZ1NoKzhJZ1dzL3YwMitVczZrSG1pY0xzPQ==/attach/object/1cd8cbbef551f75111e9f9d0df42b8613ef70c53?&quot; width=&quot;546&quot; height=&quot;413.00000000000006&quot;&gt;&lt;/div&gt;" id="Qm52tGhzfofLOG2s_-WT-1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="-1620" y="-2110" width="560" height="440" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Qm52tGhzfofLOG2s_-WT-2" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FF0000;strokeWidth=3;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1480" y="-2089" as="sourcePoint" />
+            <mxPoint x="-1087" y="-1879" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qm52tGhzfofLOG2s_-WT-3" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FF0000;strokeWidth=3;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1574" y="-1913" as="sourcePoint" />
+            <mxPoint x="-1227" y="-1730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qm52tGhzfofLOG2s_-WT-4" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FF0000;strokeWidth=3;exitX=0.089;exitY=0.182;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Qm52tGhzfofLOG2s_-WT-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1498" y="-1981" as="sourcePoint" />
+            <mxPoint x="-1108" y="-1771" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
