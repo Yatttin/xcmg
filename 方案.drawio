@@ -1104,33 +1104,33 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Fxu66QU7no49HPUStlQy-27" value="路径规划模块" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-1057.5" y="-4149" width="130" height="50" as="geometry" />
+          <mxGeometry x="-1029.5" y="-4152" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Fxu66QU7no49HPUStlQy-35" value="&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;3D点云&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;strokeColor=default;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="-1058.75" y="-4371" width="132.5" height="50" as="geometry" />
+          <mxGeometry x="-1030.75" y="-4374" width="132.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Fxu66QU7no49HPUStlQy-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.519;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=default;entryX=0.468;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="Fxu66QU7no49HPUStlQy-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-998.3700000000005" y="-4099" as="sourcePoint" />
-            <mxPoint x="-998.34" y="-4039" as="targetPoint" />
+            <mxPoint x="-970.3700000000005" y="-4102" as="sourcePoint" />
+            <mxPoint x="-970.34" y="-4042" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Fxu66QU7no49HPUStlQy-40" value="点云处理模块" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-1056.5" y="-4260" width="130" height="50" as="geometry" />
+          <mxGeometry x="-1028.5" y="-4263" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Fxu66QU7no49HPUStlQy-42" value="&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;挖掘路径&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;(&lt;/font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;θ_Boom,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;θ_Arm,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;θ_Bucket&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;或&lt;font style=&quot;background-color: initial;&quot; face=&quot;Helvetica&quot;&gt;(&lt;/font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;x, z&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;θ_Bucket&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;strokeColor=default;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="-1110" y="-4033" width="237" height="66" as="geometry" />
+          <mxGeometry x="-1082" y="-4036" width="237" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Fxu66QU7no49HPUStlQy-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.519;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=default;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-998.0000000000005" y="-4210" as="sourcePoint" />
-            <mxPoint x="-997.97" y="-4150" as="targetPoint" />
+            <mxPoint x="-970.0000000000005" y="-4213" as="sourcePoint" />
+            <mxPoint x="-969.97" y="-4153" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Fxu66QU7no49HPUStlQy-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.519;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=default;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-997.9200000000004" y="-4321" as="sourcePoint" />
-            <mxPoint x="-997.89" y="-4261" as="targetPoint" />
+            <mxPoint x="-969.9200000000004" y="-4324" as="sourcePoint" />
+            <mxPoint x="-969.89" y="-4264" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
